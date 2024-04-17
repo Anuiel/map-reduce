@@ -96,7 +96,7 @@ depending on the hour and day of the week; these two parameters need to be pulle
 For verification, it is useful to build a graph using this table, it should look predictable.
 (if you show us, we will give you bonus points, for this you need to attach a graph to the merjrequest).
 
-Files for this task: `resources/travel_times.txt ` and `resources/road_graph_data.txt ` (after unziping `extract_me.tgz`)
+Files for this task: `resources/travel_times.txt` and `resources/road_graph_data.txt` (after unziping `extract_me.tgz`)
 
 **P.S.** see [`visual_yandex_maps.ipynb`](visual_yandex_maps.ipynb) for visual answer
 
