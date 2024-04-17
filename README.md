@@ -11,7 +11,7 @@ pip3 install . --prefer-binary --force-reinstall --find-links dist
 
 ### Run tests
 ```bash
-$compgraph pytest
+pytest
 ```
 
 ### Run examples
