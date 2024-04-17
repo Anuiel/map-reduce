@@ -16,7 +16,7 @@ $compgraph pytest
 
 ### Run examples
 ```bash
-python3 compgraph/<example_file>.py --help
+python3 examples/<example_file>.py --help
 
-python3 compgraph/<example_file>.py --input <input.txt> --output <output.txt>
+python3 examples/<example_file>.py --input <input.txt> --output <output.txt>
 ```
