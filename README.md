@@ -98,6 +98,8 @@ For verification, it is useful to build a graph using this table, it should look
 
 Files for this task: `resources/travel_times.txt ` and `resources/road_graph_data.txt ` (after unziping `extract_me.tgz`)
 
+**P.S.** see [`visual_yandex_maps.ipynb`](visual_yandex_maps.ipynb) for visual answer
+
 ### Run examples
 ```bash
 unzip resources/extract_me.tgz
