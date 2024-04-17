@@ -117,3 +117,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Specific for this project
+resources/road_graph_data.txt
+resources/text_corpus.txt
+resources/travel_times.txt
