@@ -4,10 +4,9 @@ Python 3.11.5
 
 ## How to install
 ```bash
-$compgraph pip wheel --wheel-dir dist .
+pip3 wheel --wheel-dir dist .
 
-$compgraph pip install . --prefer-binary --force-reinstall --find-links dist
-
+pip3 install . --prefer-binary --force-reinstall --find-links dist
 ```
 
 ### Run tests
@@ -17,7 +16,7 @@ $compgraph pytest
 
 ### Run examples
 ```bash
-$compgraph python3 compgraph/<example_file>.py --help
+python3 compgraph/<example_file>.py --help
 
-$compgraph python3 compgraph/<example_file>.py --input <input.txt> --output <output.txt>
+python3 compgraph/<example_file>.py --input <input.txt> --output <output.txt>
 ```
